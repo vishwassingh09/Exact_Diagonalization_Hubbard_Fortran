@@ -1,0 +1,7 @@
+ Grid:            2 x           2  | Sites =           4  | Electrons =           4  | States =          36
+ Parameters: U =    1.0000000000000000      , t =    1.0000000000000000     
+ Starting Matrix-Free Lanczos Diagonalization...
+ ----------------------------------------
+ Ground State Energy:   -3.3408476172483446     
+ ----------------------------------------
+Execution Time:   2.8062 seconds.

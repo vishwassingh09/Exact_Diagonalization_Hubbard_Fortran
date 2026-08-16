@@ -1,0 +1,16 @@
+In file 'test2.f90', around line 201: Error allocating 13250952000 bytes: Cannot allocate memory
+
+Error termination. Backtrace:
+#0  0x79ee7a22a494 in ???
+#1  0x79ee7a22b231 in ???
+#2  0x79ee7a22b5e7 in ???
+#3  0x6339d75f153b in ???
+#4  0x6339d75f017e in ???
+#5  0x79ee79e2a600 in __libc_start_call_main
+	at ../sysdeps/nptl/libc_start_call_main.h:59
+#6  0x79ee79e2a717 in __libc_start_main_impl
+	at ../csu/libc-start.c:360
+#7  0x6339d75f01b4 in ???
+#8  0xffffffffffffffff in ???
+ Grid:            4 x           4  | Sites =          16  | Electrons =          16  | States =   165636900
+ Parameters: U =    1.0000000000000000      , t =    1.0000000000000000     

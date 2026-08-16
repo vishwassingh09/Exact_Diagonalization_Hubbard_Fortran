@@ -23,9 +23,9 @@ program hubbard_2d_unified
 
     ! Requested Parameters: 2 Sites (2x1 grid), 2 Electrons (1 Up, 1 Down)
     lx = 2
-    ly = 2
-    nup = 2
-    ndn = 2
+    ly = 4
+    nup = 4
+    ndn = 4
     ns = lx * ly
     ne = nup + ndn
     
